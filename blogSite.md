@@ -1,0 +1,12 @@
+###Blogs
++	[coolshell](http://coolshell.cn)
++	[Vamei](http://www.cnblogs.com/vamei)
++	[TankXian](http://www.cnblogs.com/TankXiao/)
++	[Coder4](http://www.coder4.com)
++	[wklken.me](http://wklken.me/)
++	[xlambda](http://xlambda.com/)
++	[简明现代魔法](http://www.nowamagic.net/)
++	[jobbole](http://blog.jobbole.com/)
++	[外刊IT评论网](http://www.vaikan.com/)
++	[开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
++	[SAE月刊](http://blog.sae.sina.com.cn/?x=0&y=0&s=SAE%E6%9C%88%E5%88%8A)
