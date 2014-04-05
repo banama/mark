@@ -1,10 +1,12 @@
 ###Blogs
 +	[coolshell](http://coolshell.cn)
++	[fengmk2](http://fengmk2.cnpmjs.org/)
 +	[Vamei](http://www.cnblogs.com/vamei)
 +	[TankXian](http://www.cnblogs.com/TankXiao/)
 +	[Coder4](http://www.coder4.com)
 +	[wklken.me](http://wklken.me/)
 +	[xlambda](http://xlambda.com/)
++	[justjavac](http://justjavac.com)
 +	[简明现代魔法](http://www.nowamagic.net/)
 +	[jobbole](http://blog.jobbole.com/)
 +	[外刊IT评论网](http://www.vaikan.com/)
