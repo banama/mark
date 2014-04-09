@@ -4,3 +4,4 @@
 +	[mako](http://help.42qu.com/code/mako.html)
 +	[Full Stack Python](http://www.fullstackpython.com/)
 +	[jekyll](http://jekyllcn.com/docs/)
++	[jquery API](http://jquery.bootcss.com/)
