@@ -7,3 +7,4 @@
 +	[jquery API](http://jquery.bootcss.com/)
 +	[tornado(zh)](http://sebug.net/paper/books/tornado/)
 +	[Flask(zh)](http://docs.jinkan.org/docs/flask/)
++	[jinja2](http://jinja.pocoo.org/docs/)
