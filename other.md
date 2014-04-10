@@ -3,3 +3,4 @@
 +	[cnpm.org](http://cnpmjs.org/)
 +	[book.cnpmjs](https://node-modules.github.io/)
 +	[Build You Own Lisp](http://www.buildyourownlisp.com/)
++	[Redis 设计与实现](http://redisbook.readthedocs.org/en/latest/)
