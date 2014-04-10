@@ -5,3 +5,5 @@
 +	[Full Stack Python](http://www.fullstackpython.com/)
 +	[jekyll](http://jekyllcn.com/docs/)
 +	[jquery API](http://jquery.bootcss.com/)
++	[tornado(zh)](http://sebug.net/paper/books/tornado/)
++	[Flask(zh)](http://docs.jinkan.org/docs/flask/)
