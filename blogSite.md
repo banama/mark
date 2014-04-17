@@ -12,5 +12,6 @@
 +	[jobbole](http://blog.jobbole.com/)
 +	[外刊IT评论网](http://www.vaikan.com/)
 +	[开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-	[Bae技术博客](http://godbae.duapp.com)
++	[Bae技术博客](http://godbae.duapp.com)
 +	[SAE月刊](http://blog.sae.sina.com.cn/?x=0&y=0&s=SAE%E6%9C%88%E5%88%8A)
++	[PythonTab](http://www.pythontab.com/)
