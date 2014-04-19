@@ -16,3 +16,4 @@
 +	[Bae技术博客](http://godbae.duapp.com)
 +	[SAE月刊](http://blog.sae.sina.com.cn/?x=0&y=0&s=SAE%E6%9C%88%E5%88%8A)
 +	[PythonTab](http://www.pythontab.com/)
++	[当然我在扯淡](http://www.yinwang.org/)
