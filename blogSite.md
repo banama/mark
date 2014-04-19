@@ -7,6 +7,7 @@
 +	[wklken.me](http://wklken.me/)
 +	[xlambda](http://xlambda.com/)
 +	[justjavac](http://justjavac.com)
++	[Very Geek](http://blog.segmentfault.com/nightire)
 +	[刘伟的技术博客](http://blog.csdn.net/lovelion)
 +	[简明现代魔法](http://www.nowamagic.net/)
 +	[jobbole](http://blog.jobbole.com/)
