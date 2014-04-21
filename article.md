@@ -4,4 +4,4 @@
 +	[javascrip构建高性能网络程序](http://www.blogbus.com/ramiel-logs/224887588.html)
 +	[javascript基础工具清单](http://blog.jobbole.com/64771/)
 +	[Rework:](http://blog.jobbole.com/6611/)
-+	[Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
++	[Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)	+	[connect源码分析--基础架构](http://cnodejs.org/topic/4fb79b0e06f43b56112b292c)
