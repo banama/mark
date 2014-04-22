@@ -5,3 +5,4 @@
 +	[javascript基础工具清单](http://blog.jobbole.com/64771/)
 +	[Rework:](http://blog.jobbole.com/6611/)
 +	[Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)	+	[connect源码分析--基础架构](http://cnodejs.org/topic/4fb79b0e06f43b56112b292c)
++	[如何选择开源许可证](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
