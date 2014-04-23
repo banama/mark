@@ -8,3 +8,4 @@
 +	[如何选择开源许可证](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 +	[看源代码那些事](http://zhh2009.iteye.com/blog/1011122)
 +	[Termimator快捷键](http://www.cnblogs.com/telnetning/archive/2013/05/18/3084819.html)
++	[终极Shell](http://macshuo.com/?p=676)
