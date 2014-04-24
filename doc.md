@@ -11,3 +11,4 @@
 +	[The Django Book(zh)](http://djangobook.py3k.cn/2.0/)
 +	[Express中文](http://expressjs.jser.us/)
 +	[readthedoc文档发布](https://readthedocs.org/)
++	[文档翻译(python)](http://www.pythondoc.com/)
