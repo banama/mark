@@ -9,3 +9,4 @@
 +	[看源代码那些事](http://zhh2009.iteye.com/blog/1011122)
 +	[Termimator快捷键](http://www.cnblogs.com/telnetning/archive/2013/05/18/3084819.html)
 +	[终极Shell](http://macshuo.com/?p=676)
++   [如何开发Chrome扩展程序](http://blog.jobbole.com/46608/)
