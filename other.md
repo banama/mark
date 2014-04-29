@@ -10,3 +10,5 @@
 +	[123.jser.us 前端导航](http://123.jser.us/)
 +	[pocoo](http://www.pocoo.org/)
 +   [Google 开源项目风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/)
++   [Full Stack Python](http://www.fullstackpython.com/introduction.html)
++   [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
