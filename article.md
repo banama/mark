@@ -10,3 +10,4 @@
 +	[Termimator快捷键](http://www.cnblogs.com/telnetning/archive/2013/05/18/3084819.html)
 +	[终极Shell](http://macshuo.com/?p=676)
 +   [如何开发Chrome扩展程序](http://blog.jobbole.com/46608/)
++   [curl网站开发指南](http://www.ruanyifeng.com/blog/2011/09/curl.html)
