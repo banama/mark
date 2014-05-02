@@ -11,3 +11,4 @@
 +	[终极Shell](http://macshuo.com/?p=676)
 +   [如何开发Chrome扩展程序](http://blog.jobbole.com/46608/)
 +   [curl网站开发指南](http://www.ruanyifeng.com/blog/2011/09/curl.html)
++   [python高级特性](http://blog.jobbole.com/66097/)
