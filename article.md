@@ -15,3 +15,4 @@
 +   [javascript原型和继承](http://blog.jobbole.com/66441/)
 +   [Object-c语法参考](http://blog.jobbole.com/66202/)
 +   [Python新手常犯错误](http://blog.jobbole.com/42706/)
++   [给Python初学者的一些技巧](http://blog.jobbole.com/32748/)
