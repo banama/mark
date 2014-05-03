@@ -13,3 +13,4 @@
 +   [Full Stack Python](http://www.fullstackpython.com/introduction.html)
 +   [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 +   [Pro Git](http://git-scm.com/book/zh)
++   [Go指南](http://go-tour-zh.appspot.com/)
