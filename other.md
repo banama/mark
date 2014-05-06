@@ -13,6 +13,7 @@
 +   [Full Stack Python](http://www.fullstackpython.com/introduction.html)
 +   [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 +   [Pro Git](http://git-scm.com/book/zh)
++   [Git 使用简易指南](http://www.bootcss.com/p/git-guide/)
 +   [Go指南](http://go-tour-zh.appspot.com/)
 +   [如何编写Go代码](http://golang.org/doc/code.html)
 +   [Go包手册](http://golang.org/pkg/)
