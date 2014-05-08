@@ -18,3 +18,4 @@
 +   [给Python初学者的一些技巧](http://blog.jobbole.com/32748/)
 +   [Python解释器简介](http://blog.jobbole.com/55327/)
 +   [我常用的Python调试工具](http://blog.jobbole.com/51062/)
++   [Python 高级特性](http://blog.jobbole.com/66097/)
