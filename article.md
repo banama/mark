@@ -19,3 +19,5 @@
 +   [Python解释器简介](http://blog.jobbole.com/55327/)
 +   [我常用的Python调试工具](http://blog.jobbole.com/51062/)
 +   [Python 高级特性](http://blog.jobbole.com/66097/)
++   [ConfigParser 用法](http://www.coder4.com/archives/3969)
++   [JavaScript世界的一等公民 – 函数](http://blog.sae.sina.com.cn/archives/3808)
