@@ -24,3 +24,4 @@
 +   [Peng Gong：我的算法学习之路](http://blog.jobbole.com/67348/)]
 +   [你应该知道的10种软件工具](http://blog.jobbole.com/39783/)
 +   [有趣的机器学习](http://blog.jobbole.com/67616/)
++   [一步一步学内核](http://uliweb.clkg.org/tutorial/read/11)
