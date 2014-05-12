@@ -23,3 +23,4 @@
 +   [JavaScript世界的一等公民 – 函数](http://blog.sae.sina.com.cn/archives/3808)
 +   [Peng Gong：我的算法学习之路](http://blog.jobbole.com/67348/)]
 +   [你应该知道的10种软件工具](http://blog.jobbole.com/39783/)
++   [有趣的机器学习](http://blog.jobbole.com/67616/)
