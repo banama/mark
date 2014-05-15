@@ -27,3 +27,4 @@
 +   [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 +   [Go 入门指南](https://github.com/astaxie/build-web-application-with-golang)
 +   [Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
++   [360 Brower 开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
