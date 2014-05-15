@@ -26,3 +26,4 @@
 +   [Go 中一等公民函数](http://golang.org/doc/codewalk/functions/)
 +   [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 +   [Go 入门指南](https://github.com/astaxie/build-web-application-with-golang)
++   [Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
