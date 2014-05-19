@@ -27,3 +27,4 @@
 +   [有趣的机器学习](http://blog.jobbole.com/67616/)
 +   [一步一步学内核](http://uliweb.clkg.org/tutorial/read/11)
 +   [Chrome插件（Extensions）开发攻略](http://www.cnblogs.com/guogangj/p/3235703.html)
++   [前端乱炖](http://www.html-js.com/)
