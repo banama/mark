@@ -30,3 +30,4 @@
 +   [前端乱炖](http://www.html-js.com/)
 +   [Chrome developer tool介绍(javascript调试)](http://www.cnblogs.com/wukenaihe/archive/2013/01/27/javascript%E8%B0%83%E8%AF%95.html)
 +   [精选在线课程：前端开发入门、进阶与实战（中文系列）](http://blog.jobbole.com/68485/)
++   [Chrome 中的 JavaScript 断点设置和调试技巧  ](http://han.guokai.blog.163.com/blog/static/136718271201321402514114/)
