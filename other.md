@@ -32,3 +32,4 @@
 +   [Chrome 扩展中文](https://crxdoc-zh.appspot.com)
 +   [MDN](https://developer.mozilla.org)
 +   [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
++   [W3school](http://www.w3school.com.cn/)
