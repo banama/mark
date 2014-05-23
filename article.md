@@ -32,3 +32,4 @@
 +   [精选在线课程：前端开发入门、进阶与实战（中文系列）](http://blog.jobbole.com/68485/)
 +   [Chrome 中的 JavaScript 断点设置和调试技巧  ](http://han.guokai.blog.163.com/blog/static/136718271201321402514114/)
 +   [sneezry](http://sneezry.com/)
++   [胡作菲为](http://blog.hudidit.com/)
