@@ -1,11 +1,10 @@
 Some registries that not in github
 ============
 
-###Meteor.js
-* [link](https://www.meteor.com/)
+* [Meteor.js]https://www.meteor.com/)
 
-###PhoneGap.js
-* [link](http://phonegap.com/)
+* [PhoneGap.js](http://phonegap.com/)
 
-###TimelineJS
-* [link](http://timeline.knightlab.com/)
+* [TimelineJS](http://timeline.knightlab.com/)
+
+* [Brackets](Brackets.io)
