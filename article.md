@@ -33,3 +33,4 @@
 +   [Chrome 中的 JavaScript 断点设置和调试技巧  ](http://han.guokai.blog.163.com/blog/static/136718271201321402514114/)
 +   [sneezry](http://sneezry.com/)
 +   [胡作菲为](http://blog.hudidit.com/)
++   [基于Flask设计RESTful API](http://balloonsys.com/blog/2014/03/11/design-restful-api-with-python-and-flask/)
