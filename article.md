@@ -35,3 +35,4 @@
 +   [胡作菲为](http://blog.hudidit.com/)
 +   [基于Flask设计RESTful API](http://balloonsys.com/blog/2014/03/11/design-restful-api-with-python-and-flask/)
 +   [HTTP API响应数据规范整理](http://blog.segmentfault.com/lenbo_ma/1190000000495693)
++   [编程，学校不会交给你的课程](http://blog.jobbole.com/34647/)
