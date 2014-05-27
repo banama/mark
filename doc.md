@@ -12,3 +12,4 @@
 +	[Express中文](http://expressjs.jser.us/)
 +	[readthedoc文档发布](https://readthedocs.org/)
 +	[文档翻译(python)](http://www.pythondoc.com/)
++   [BAE Python SDK 1.0.0 documentation](http://pythondoc.duapp.com/index.html)
