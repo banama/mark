@@ -1,7 +1,7 @@
 Some registries that not in github
 ============
 
-* [Meteor.js]https://www.meteor.com/)
+* [Meteor.js](https://www.meteor.com/)
 
 * [PhoneGap.js](http://phonegap.com/)
 
