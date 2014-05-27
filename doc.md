@@ -3,7 +3,7 @@
 +	[mako-cn](http://docs.makotemplates.org/en/latest/)
 +	[mako](http://help.42qu.com/code/mako.html)
 +	[Full Stack Python](http://www.fullstackpython.com/)
-+	[jekyll](http://jekyllcn.com/docs/)
++	[jekyll](http://jekyllcn.com/)
 +	[jquery API](http://jquery.bootcss.com/)
 +	[tornado(zh)](http://sebug.net/paper/books/tornado/)
 +	[Flask(zh)](http://docs.jinkan.org/docs/flask/)
