@@ -11,3 +11,6 @@ Some registries that not in github
 
 * [SeaJs](http://seajs.org/) 
 
+* [iScroll](http://www.gafish.net/api/iScroll.html) 
+
+
