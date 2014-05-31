@@ -8,3 +8,6 @@ Some registries that not in github
 * [TimelineJS](http://timeline.knightlab.com/)
 
 * [Brackets](Brackets.io)
+
+* [SeaJs](http://seajs.org/) 
+
