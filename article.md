@@ -38,3 +38,4 @@
 +   [编程，学校不会交给你的课程](http://blog.jobbole.com/34647/)
 +   [如果看了这篇文章你还不懂傅里叶变换，那就过来掐死我吧](http://blog.jobbole.com/69407/)
 +   [CommonJS规范](http://javascript.ruanyifeng.com/nodejs/commonjs.html#toc0)
++   [前端技术资源](http://www.angularjs.cn/A04F)
