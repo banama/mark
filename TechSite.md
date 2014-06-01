@@ -25,3 +25,4 @@
 +   [OLDJ](http://oldj.net/)
 +   [前端日志网](http://www.w3clog.com/)
 +   [汤姆大叔](http://www.cnblogs.com/TomXu/)
++   [pixelstech](http://www.pixelstech.net/)
