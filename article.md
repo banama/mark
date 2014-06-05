@@ -37,3 +37,8 @@
 +   [HTTP API响应数据规范整理](http://blog.segmentfault.com/lenbo_ma/1190000000495693)
 +   [编程，学校不会交给你的课程](http://blog.jobbole.com/34647/)
 +   [RESTful API 设计最佳实践](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
++   [编程学校不会交给你的课程](http://blog.jobbole.com/34647/)
++   [如果看了这篇文章你还不懂傅里叶变换，那就过来掐死我吧](http://blog.jobbole.com/69407/)
++   [CommonJS规范](http://javascript.ruanyifeng.com/nodejs/commonjs.html#toc0)
++   [前端技术资源](http://www.angularjs.cn/A04F)
++   [作用域, 匿名函数, 闭包](http://www.cnblogs.com/ttcc/p/3763437.html)
