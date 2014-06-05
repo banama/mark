@@ -36,3 +36,4 @@
 +   [基于Flask设计RESTful API](http://balloonsys.com/blog/2014/03/11/design-restful-api-with-python-and-flask/)
 +   [HTTP API响应数据规范整理](http://blog.segmentfault.com/lenbo_ma/1190000000495693)
 +   [编程，学校不会交给你的课程](http://blog.jobbole.com/34647/)
++   [RESTful API 设计最佳实践](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
