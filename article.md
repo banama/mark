@@ -42,3 +42,4 @@
 +   [CommonJS规范](http://javascript.ruanyifeng.com/nodejs/commonjs.html#toc0)
 +   [前端技术资源](http://www.angularjs.cn/A04F)
 +   [作用域, 匿名函数, 闭包](http://www.cnblogs.com/ttcc/p/3763437.html)
++   [Tony zhao：到底怎么样才叫看书？](http://blog.jobbole.com/25842/)
