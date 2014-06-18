@@ -35,3 +35,4 @@
 +   [W3school](http://www.w3school.com.cn/)
 +   [Angular JS 中文网](http://www.apjs.net/)
 +   [csser](http://www.csser.com/)
++   [flask mega-tutorial](http://www.pythondoc.com/flask-mega-tutorial/index.html)
