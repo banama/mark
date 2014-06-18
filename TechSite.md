@@ -27,3 +27,4 @@
 +   [汤姆大叔](http://www.cnblogs.com/TomXu/)
 +   [pixelstech](http://www.pixelstech.net/)
 +   [玉伯](http://lifesinger.github.com/)
++   [lepture](http://lepture.com/)
