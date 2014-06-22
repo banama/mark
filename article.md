@@ -43,3 +43,4 @@
 +   [前端技术资源](http://www.angularjs.cn/A04F)
 +   [作用域, 匿名函数, 闭包](http://www.cnblogs.com/ttcc/p/3763437.html)
 +   [Tony zhao：到底怎么样才叫看书？](http://blog.jobbole.com/25842/)
++   [MySQL在大型网站的应用架构演变](http://blog.sae.sina.com.cn/archives/4356)
