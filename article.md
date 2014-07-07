@@ -46,3 +46,5 @@
 +   [MySQL在大型网站的应用架构演变](http://blog.sae.sina.com.cn/archives/4356)
 +   [SQLAlchemy指南](http://blog.csdn.net/dupei/article/details/6014488)
 +   [WTForms](http://wtforms.readthedocs.org/en/latest/)
++   [Flask大型项目教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
+
