@@ -48,3 +48,4 @@
 +   [WTForms](http://wtforms.readthedocs.org/en/latest/)
 +   [Flask大型项目教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 +   [docker资料汇总](http://special.csdncms.csdn.net/BeDocker/)
++   [数据库的最简单实现](http://blog.jobbole.com/73127/)
