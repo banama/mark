@@ -49,3 +49,5 @@
 +   [Flask大型项目教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 +   [docker资料汇总](http://special.csdncms.csdn.net/BeDocker/)
 +   [数据库的最简单实现](http://blog.jobbole.com/73127/)
++   [ python __set__ __get__ 等解释](http://blog.csdn.net/huithe/article/details/7484606)
++   [python与tornado](http://www.nowamagic.net/academy/part/13/325/)
