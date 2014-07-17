@@ -51,3 +51,4 @@
 +   [数据库的最简单实现](http://blog.jobbole.com/73127/)
 +   [ python __set__ __get__ 等解释](http://blog.csdn.net/huithe/article/details/7484606)
 +   [python与tornado](http://www.nowamagic.net/academy/part/13/325/)
++   [中文字体网页开发](http://blog.jobbole.com/73722/)
