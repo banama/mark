@@ -52,3 +52,4 @@
 +   [ python __set__ __get__ 等解释](http://blog.csdn.net/huithe/article/details/7484606)
 +   [python与tornado](http://www.nowamagic.net/academy/part/13/325/)
 +   [中文字体网页开发](http://blog.jobbole.com/73722/)
++   [Cookie/Session机制](http://blog.csdn.net/fangaoxin/article/details/6952954)
