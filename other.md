@@ -38,3 +38,4 @@
 +   [flask mega-tutorial](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 +   [Angularjs开发指南](http://www.ngnice.com/docs/guide)
 +   [《程序员编程艺术：面试和算法心得》](http://taop.marchtea.com/)
++   [Flask code](https://pypi.python.org/pypi/Flask)
