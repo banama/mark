@@ -30,3 +30,4 @@
 +   [lepture](http://lepture.com/)
 +   [老王](http://huoding.com/)
 +   [Dailyjs](http://dailyjs.com/)
++   [陈铮](http://liamchzh.github.io/about/)
