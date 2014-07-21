@@ -29,3 +29,4 @@
 +   [玉伯](http://lifesinger.github.com/)
 +   [lepture](http://lepture.com/)
 +   [老王](http://huoding.com/)
++   [Dailyjs](http://dailyjs.com/)
