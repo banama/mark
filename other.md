@@ -39,3 +39,4 @@
 +   [Angularjs开发指南](http://www.ngnice.com/docs/guide)
 +   [《程序员编程艺术：面试和算法心得》](http://taop.marchtea.com/)
 +   [Flask code](https://pypi.python.org/pypi/Flask)
++   [我如何组织Flask组织结构](http://www.oschina.net/translate/how-i-structure-my-flask-applications#s2f)
