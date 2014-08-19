@@ -18,3 +18,4 @@
 +	[celery](http://www.pythondoc.com/celery-3.1.11/)
 +	[Tornado 4.0](http://www.tornadoweb.org/en/stable/)
 +	[Jedis 2.0 API](http://tool.oschina.net/uploads/apidocs/)
++	[docker中文指南](http://www.widuu.com/docker_chinese)
