@@ -41,3 +41,4 @@
 +   [Flask code](https://pypi.python.org/pypi/Flask)
 +   [我如何组织Flask组织结构](http://www.oschina.net/translate/how-i-structure-my-flask-applications#s2f)
 +   [Nodejs学习资源](http://blog.jobbole.com/75084/)
++   [Andriod学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
