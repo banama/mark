@@ -56,3 +56,4 @@
 +   [如何提高Web服务端并发效率的异步编程技术](http://www.csdn.net/article/2014-09-03/2821524-Web)
 +   [Python 日期处理细节](http://www.cnblogs.com/rollenholt/archive/2012/04/10/2441542.html)
 +   [JavaScript标准Selection操作](http://www.cnblogs.com/rainman/archive/2011/02/27/1966482.html)
++   [大型网站系统架构的演化](http://blog.jobbole.com/77748/)
