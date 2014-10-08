@@ -12,10 +12,11 @@
 +	[Express中文](http://expressjs.jser.us/)
 +	[readthedoc文档发布](https://readthedocs.org/)
 +	[文档翻译(python)](http://www.pythondoc.com/)
-+   [BAE Python SDK 1.0.0 documentation](http://pythondoc.duapp.com/index.html)
-+   [Flask-SQLALchemy][https://pythonhosted.org/Flask-SQLAlchemy/index.html]
++       [BAE Python SDK 1.0.0 documentation](http://pythondoc.duapp.com/index.html)
++   	[Flask-SQLALchemy](https://pythonhosted.org/Flask-SQLAlchemy/index.html)
 +	[Docker中文文档](http://www.widuu.com/docker/)
 +	[celery](http://www.pythondoc.com/celery-3.1.11/)
 +	[Tornado 4.0](http://www.tornadoweb.org/en/stable/)
++	[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
 +	[Jedis 2.0 API](http://tool.oschina.net/uploads/apidocs/)
 +	[docker中文指南](http://www.widuu.com/docker_chinese)
