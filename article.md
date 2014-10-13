@@ -58,3 +58,4 @@
 +   [JavaScript标准Selection操作](http://www.cnblogs.com/rainman/archive/2011/02/27/1966482.html)
 +   [大型网站系统架构的演化](http://blog.jobbole.com/77748/)
 +   [Tornado 开发最佳实践](http://simple-is-better.com/news/997)
++   [解构Express app.js](http://www.ituring.com.cn/article/54775)
