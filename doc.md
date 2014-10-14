@@ -20,3 +20,5 @@
 +	[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
 +	[Jedis 2.0 API](http://tool.oschina.net/uploads/apidocs/)
 +	[docker中文指南](http://www.widuu.com/docker_chinese)
++	[Angualrjs镜像](http://angularjs-doc.qiniudn.com/docs/api)
++	[Angular Guide翻译](http://www.ngnice.com/docs/guide)
