@@ -31,3 +31,4 @@
 +   [老王](http://huoding.com/)
 +   [Dailyjs](http://dailyjs.com/)
 +   [陈铮](http://liamchzh.github.io/about/)
++   [百度前端研发部](http://fex.baidu.com/)
