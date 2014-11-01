@@ -60,3 +60,4 @@
 +   [Tornado 开发最佳实践](http://simple-is-better.com/news/997)
 +   [解构Express app.js](http://www.ituring.com.cn/article/54775)
 +   [数据库锁](http://www.cnblogs.com/zhouqianhua/archive/2011/04/15/2017049.html)
++   [[汇总]Web前端优化](http://www.cnblogs.com/wildweeds/archive/2010/06/12/web_performance.html)
