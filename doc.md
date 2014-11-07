@@ -22,3 +22,5 @@
 +	[docker中文指南](http://www.widuu.com/docker_chinese)
 +	[Angualrjs镜像](http://angularjs-doc.qiniudn.com/docs/api)
 +	[Angular Guide翻译](http://www.ngnice.com/docs/guide)
++	[WebStorm明河](http://book.36ria.com/webstorm/)
++	[python-guide](http://docs.python-guide.org/en/latest/)
