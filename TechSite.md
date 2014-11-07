@@ -32,3 +32,4 @@
 +   [Dailyjs](http://dailyjs.com/)
 +   [陈铮](http://liamchzh.github.io/about/)
 +   [百度前端研发部](http://fex.baidu.com/)
++   [粉丝日志](http://blog.fens.me/)
