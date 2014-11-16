@@ -62,3 +62,4 @@
 +   [数据库锁](http://www.cnblogs.com/zhouqianhua/archive/2011/04/15/2017049.html)
 +   [[汇总]Web前端优化](http://www.cnblogs.com/wildweeds/archive/2010/06/12/web_performance.html)
 +   [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
++   [深入了解 ES6 生成器](http://blog.jobbole.com/79601/)
