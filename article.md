@@ -63,4 +63,4 @@
 +   [[汇总]Web前端优化](http://www.cnblogs.com/wildweeds/archive/2010/06/12/web_performance.html)
 +   [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
 +   [深入了解 ES6 生成器](http://blog.jobbole.com/79601/)
-+   [15款值得学习的小型开源项目，带你快速步入开源世界](http://blog.jobbole.com/79836/)
++   [15款值得学习的小型开源项目，带你快速步入开源世界](http://blog.jobbole.com/79836/)+	  [webapp移动端的适配](http://www.haodaima.net/art/2539524)
