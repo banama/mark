@@ -66,3 +66,4 @@
 +   [15款值得学习的小型开源项目，带你快速步入开源世界](http://blog.jobbole.com/79836/)
 +   [webapp移动端的适配](http://www.haodaima.net/art/2539524)
 +   [自适应网页设计](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
++   [GITHUB的javascript代码规范](http://hao.jobbole.com/github-javascript-styleguide/)
