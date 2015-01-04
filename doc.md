@@ -25,3 +25,4 @@
 +	[WebStorm明河](http://book.36ria.com/webstorm/)
 +	[python-guide](http://docs.python-guide.org/en/latest/)
 +	[underscore annotated-source-code](http://documentcloud.github.io/underscore/docs/underscore.html)
++	[github styleguide](https://github.com/styleguide)
