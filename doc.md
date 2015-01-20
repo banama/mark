@@ -27,3 +27,4 @@
 +	[underscore annotated-source-code](http://documentcloud.github.io/underscore/docs/underscore.html)
 +	[github styleguide](https://github.com/styleguide)
 +	[微信jssdk](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html?pass_ticket=33tt8DVSi3G1Iq8PZNKVzbM9Ixs9gb8r2XcxReImgSzPHJmzgjV0pwDV8FPbrSVgfontScale=100plg_auth=1#1..E5.BC.95.E5.85.A5JS.E6.96.87.E4.BB.B6)
++ [Nodejs doc中文](http://nodejs.cn/api)

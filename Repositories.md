@@ -6,8 +6,10 @@
 
 * [Brackets](Brackets.io)
 
-* [SeaJs](http://seajs.org/) 
+* [SeaJs](http://seajs.org/)
 
-* [iScroll](http://www.gafish.net/api/iScroll.html) 
+* [iScroll](http://www.gafish.net/api/iScroll.html)
 
 * [静态网站生成器](http://news.cnblogs.com/n/208129/)
+
+* [淘宝NPM国内高速镜像](https://npm.taobao.org/)

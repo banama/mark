@@ -8,4 +8,3 @@ Some book recommeded
 * Javascript DOM高级程序设计
 * Javascript高级程序设计
 * Javascript权威指南(第六版 犀牛书)
-
