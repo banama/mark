@@ -7,3 +7,4 @@
 +	[SegmentFault](http://segmentfault.com/)
 +   [光谷技术交流社区](http://www.lowshine.com/)
 +	[ourjs](http://ourjs.com/)
++ [Gitter](https://gitter.im/)
