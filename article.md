@@ -67,3 +67,4 @@
 +   [webapp移动端的适配](http://www.haodaima.net/art/2539524)
 +   [自适应网页设计](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
 +   [GITHUB的javascript代码规范](http://hao.jobbole.com/github-javascript-styleguide/)
++   [七天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
