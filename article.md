@@ -22,6 +22,7 @@
 +   [Python 高级特性](http://blog.jobbole.com/66097/)
 +   [ConfigParser 用法](http://www.coder4.com/archives/3969)
 +   [JavaScript世界的一等公民 – 函数](http://blog.sae.sina.com.cn/archives/3808)
++   [web技术日报](http://web.memect.com/)
 +   [Peng Gong：我的算法学习之路](http://blog.jobbole.com/67348/)]
 +   [你应该知道的10种软件工具](http://blog.jobbole.com/39783/)
 +   [有趣的机器学习](http://blog.jobbole.com/67616/)
