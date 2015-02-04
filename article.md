@@ -72,3 +72,4 @@
 +   [写给git初学者的7个建议](http://blog.jobbole.com/50603/)
 +   [用户界面体验中心](http://www.uis.cc/)
 +   [the5fire的技术博客](http://www.the5fire.com/backbone-tutorials-catalogue.html)
++   [gulp-browserify-the-gulp-y-way](https://medium.com/@sogko/gulp-browserify-the-gulp-y-way-bb359b3f9623)
