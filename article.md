@@ -76,3 +76,8 @@
 +   [gulp-browserify-the-gulp-y-way](https://medium.com/@sogko/gulp-browserify-the-gulp-y-way-bb359b3f9623)
 +   [isux](http://isux.tencent.com/h5-performance.html)
 +   [js运动学模拟与粒子系统](http://www.cnblogs.com/miloyip/archive/2010/06/14/Kinematics_ParticleSystem.html)
++   [perfectionkills](http://perfectionkills.com)
++   [davidwalsh](http://davidwalsh.name/)
++   [ejohn](http://ejohn.org)
++   [http://www.nczonline.net](nczonline)
++   [crockford](http://javascript.crockford.com/)
