@@ -81,3 +81,4 @@
 +   [ejohn](http://ejohn.org)
 +   [http://www.nczonline.net](nczonline)
 +   [crockford](http://javascript.crockford.com/)
++   [jquery源码解析](http://www.cnblogs.com/aaronjs/p/3279314.html)
