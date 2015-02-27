@@ -83,3 +83,4 @@
 +   [crockford](http://javascript.crockford.com/)
 +   [jquery源码解析](http://www.cnblogs.com/aaronjs/p/3279314.html)
 +   [javascript高性能动画与页面渲染](http://www.codeceo.com/article/javascript-high-performance-2.html)
++   [backbone越挖越深](http://gavin.iteye.com/blog/1446277)
