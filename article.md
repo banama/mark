@@ -87,3 +87,4 @@
 +   [浅谈JavaScript的执行效率](http://www.codeceo.com/article/javascript-performance.html)
 +   [关于前端开发的20篇文档与指南](http://www.imooc.com/wenda/detail/249250)
 +   [如何评价react native](http://www.360doc.com/content/15/0219/18/9200790_449460678.shtml)
++   [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.cnblogs.com/chehaoj/archive/2012/10/31/2747904.html)
