@@ -86,3 +86,4 @@
 +   [backbone越挖越深](http://gavin.iteye.com/blog/1446277)
 +   [浅谈JavaScript的执行效率](http://www.codeceo.com/article/javascript-performance.html)
 +   [关于前端开发的20篇文档与指南](http://www.imooc.com/wenda/detail/249250)
++   [如何评价react native](http://www.360doc.com/content/15/0219/18/9200790_449460678.shtml)
