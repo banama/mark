@@ -19,3 +19,5 @@
 * [font-spider让网页自由引入中文字体成为可能](http://font-spider.org/)
 
 * [webfont-generator](http://www.fontsquirrel.com/tools/webfont-generator)
+    
+* [http://fontello.com/](图标字体生成)
